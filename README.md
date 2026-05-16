@@ -19,9 +19,9 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/SQL-147bb7?style=flat-square&logo=SQL&logoColor=white"/></a>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Chaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchaeeun&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Chaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchaeeun&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
